@@ -3,6 +3,7 @@
 Created on Sep 25, 2012
 
 @author: slarinier
+@modder: trhacknon
 '''
 
 from actions import Actions
